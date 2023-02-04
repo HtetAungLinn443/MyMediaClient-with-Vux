@@ -30,3 +30,12 @@ To start using My Media Project, simply access the URL provided and sign in to t
 ## Conclusion 
 
 My Media Project is a powerful and versatile platform that provides an efficient and effective way to manage media files. Whether you are an individual or a business, My Media Project has the tools you need to easily and effectively manage your media files.
+
+## Demo
+
+- [Admin](https://github.com/HtetAungLinn443/MyMediaAdminPannel-with-Laravel)
+- [Cliten](https://github.com/HtetAungLinn443/MyMediaClient-with-Vux)
+
+## Authors
+
+- [HtetAungLinn](https://github.com/HtetAungLinn443)
